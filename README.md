@@ -17,7 +17,7 @@ and I'm building real-world skills one project at a time.
 ## Projects
 | Project | Tool Used | Description |
 |---------|-----------|-------------|
-| Coming soon | Excel | - |
+| E-Commerce Sales Analytics | Excel | Data cleaning, VLOOKUP, KPIs, Pivot Tables, interactive dashboard and business insights report |
 
 ## Goals
 - Build a strong data analytics portfolio
